@@ -6,7 +6,7 @@ The Analytical Solution Seeker
 
 Senior Data Analytics student currently at the University of Kansas, experienced in Data Analysis and Visualization tools such as Python, Tableau, Excel, R, and SQL, with the ability to analyze complex datasets and create meaningful insights through visualization. Passionate about Machine Learning (ML), Artificial Intelligence (AI), Big Data, and Data Visualization, and eager to apply this expertise to solve real-world challenges.
 
-Certified in Google's Data Analytics programs via Coursera, and constantly striving to expand my skill set. Excited to engage with the GitHub community, contribute, and build lasting professional relationships.
+Certified in Google's Data Analytics program via Coursera, and constantly striving to expand my skill set. Excited to engage with the GitHub community, contribute, and build lasting professional relationships.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [The Portfolio of T](http://https://sites.google.com/view/theportfoliooft/home)
