@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thornton Cherry!
 ========================================================================================================================================
 
-Digital Marketing | E-Commerce | Data Analyst
+The Analytical Solution Seeker
 ---------------------------------------------
 
-Results-driven Digital Full Stack Marketing and E-Commerce professional, and Senior Data Analytics student at the University of Kansas, with 10 years of experience in brand enhancement, specializing in social media marketing, strategy, and development. Skilled in optimizing digital marketing campaigns, creating compelling content, and leveraging SEO techniques to drive growth. Adept at advising clients on business-to-business (B2B) marketing strategies and boosting engagement across e-commerce platforms and social media.
+Senior Data Analytics student currently at the University of Kansas, experienced in Data Analysis and Visualization tools such as Python, Tableau, Excel, R, and SQL, with the ability to analyze complex datasets and create meaningful insights through visualization. Passionate about Machine Learning (ML), Artificial Intelligence (AI), Big Data, and Data Visualization, and eager to apply this expertise to solve real-world challenges.
 
-Experienced in Data Analysis and Visualization tools such as Python, Tableau, Excel, R, and SQL, with the ability to analyze complex datasets and create meaningful insights through visualization. Passionate about Machine Learning (ML), Artificial Intelligence (AI), Big Data, and Data Visualization, and eager to apply this expertise to solve real-world challenges.
-
-Certified in Google's Digital Marketing & E-Commerce and Data Analytics programs via Coursera, constantly striving to expand my skill set. Excited to engage with the GitHub community, contribute, and build lasting professional relationships.
+Certified in Google's Data Analytics programs via Coursera, and constantly striving to expand my skill set. Excited to engage with the GitHub community, contribute, and build lasting professional relationships.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [The Portfolio of T](http://https://sites.google.com/view/theportfoliooft/home)
