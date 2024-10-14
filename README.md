@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thornton!
 ========================================================================================================================================
 
-The Analytical Solution Seeker
+Data-Driven Storyteller | Analytics Enthusiast
 ---------------------------------------------
 
 Senior Data Analytics student currently at the University of Kansas, experienced in Data Analysis and Visualization tools such as Python, Tableau, Excel, R, and SQL, with the ability to analyze complex datasets and create meaningful insights through visualization. Passionate about Machine Learning (ML), Artificial Intelligence (AI), Big Data, and Data Visualization, and eager to apply this expertise to solve real-world challenges.
