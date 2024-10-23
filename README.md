@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Creative Data Analyst | Digital Storyteller
+
 - 🔭 I’m currently working on my Bachelor of Professional Studies - Data Analytics <br>        Degree @ The University of Kansas<br>- 🌱 I’m currently learning Data Analytics<br><br><br>- 📫 How to reach me: tcherry1279@gmail.com<br>- 😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I'm a HUGE Star Wars fan, cook, foodie and lover of music.
 
 
