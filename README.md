@@ -1,6 +1,10 @@
-# 💫 Creative Data Analyst | Digital Marketing | Data-Driven Storyteller
-
-- 🔭 I’m currently working on my Bachelor of Professional Studies in Data Analytics @ The University of Kansas<br>- 🌱 I’m presently working on Python and enjoying the analytical journey.  <br><br><br>- 📫 How to reach me: tcherry1279@gmail.com<br>- 😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I'm a HUGE Star Wars fan, cook, foodie and lover of music.
+# 💫 The Creative Data-Driven Storyteller
+---
+- 🔭 I’m currently working on my Bachelor of Professional Studies with a concentration in Data Analytics @ The University of Kansas <br>
+- 🌱 I’m presently working on Python and enjoying the analytical journey. As I learn more, I'm sure you'll see the progression within my work. <br><br><br>
+- 📫 How to reach me: tcherry1279@gmail.com <br>
+- 😄 Pronouns: He/Him <br><br>
+- ⚡ Fun fact: I'm a HUGE Star Wars fan, cook, foodie and lover of music.
 
 
 ## 🌐 Socials:
