@@ -1,6 +1,6 @@
 # 💫 The Creative Data-Driven Storyteller
 ---
-- 🔭 I’m currently working on my Bachelor of Professional Studies with a concentration in Data Analytics @ The University of Kansas <br>
+- 🔭 I’m currently working on my Bachelor of Professional Studies with a concentration in Data Analytics at The University of Kansas (Graduation: Fall 2025). <br>
 - 🌱 I’m presently working on Python and enjoying the analytical journey. As I learn more, I'm sure you'll see the progression within my work. <br><br><br>
 - 📫 How to reach me: tcherry1279@gmail.com <br>
 - 😄 Pronouns: He/Him <br><br>
