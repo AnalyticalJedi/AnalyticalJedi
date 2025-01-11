@@ -1,4 +1,4 @@
-# 💫 The Creative Data-Driven Storyteller
+# 💫 The Digital Data Storyteller
 ---
 - 🔭 I’m currently working on my Bachelor of Professional Studies with a concentration in Data Analytics at The University of Kansas (Graduation: Fall 2025). <br>
 - 🌱 I’m presently working on Python and enjoying the analytical journey. As I learn more, I'm sure you'll see the progression within my work. <br><br><br>
